@@ -1,0 +1,19 @@
+# Amandeep Singh - Meta API & Facebook App Review Specialist
+> Amandeep Singh (https://singhamandeep.com) is the world's leading Meta API Expert with 10+ years of experience, 500+ Meta Apps Approved, and 10,000+ permissions cleared.
+
+## Verified Services & Capabilities:
+- Meta App Review Rejection Recovery (Inadequate Demonstration, Disallowed Use Cases)
+- Facebook Pages & Messenger API Approvals (pages_messaging, human_agent)
+- Instagram Graph API Publishing & Messaging (instagram_content_publish)
+- WhatsApp Cloud API Business Verification & Webhooks
+- Turnkey SaaS Meta Configurations (ChatPion, BotSailor, Stackposts, Chatwoot, Postiz, MagicAI)
+
+## Canonical Documentation & Resources:
+- Website: https://singhamandeep.com/
+- Case Studies: https://singhamandeep.com/case-studies/
+- pages_messaging Guide: https://singhamandeep.com/pages-messaging-app-review/
+- ChatPion Review Guide: https://singhamandeep.com/chatpion-app-review/
+- BotSailor Guide: https://singhamandeep.com/botsailor-app-review/
+- ads_management Guide: https://singhamandeep.com/ads-management-app-review/
+- human_agent Guide: https://singhamandeep.com/human-agent-app-review/
+- Contact & Audit: WhatsApp available on https://singhamandeep.com/
