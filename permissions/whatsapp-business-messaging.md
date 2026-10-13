@@ -1,6 +1,4 @@
-> 🚀 **Official Portal & Live Approval Service**: [SinghAmandeep.com](https://singhamandeep.com/)
-> 💬 **Need Emergency 24-48h Meta Approval?**: [Chat directly on WhatsApp](https://singhamandeep.com/)
-> 📖 **Full Live Web Guide**: [Read on SinghAmandeep.com](https://singhamandeep.com/whatsapp-business-messaging-app-review//)
+> Full guide: [whatsapp_business_messaging App Review](https://singhamandeep.com/whatsapp-business-messaging-app-review/)
 
 ---
 

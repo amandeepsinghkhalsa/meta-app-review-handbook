@@ -1,6 +1,4 @@
-> 🚀 **Official Portal & Live Approval Service**: [SinghAmandeep.com](https://singhamandeep.com/)
-> 💬 **Need Emergency 24-48h Meta Approval?**: [Chat directly on WhatsApp](https://singhamandeep.com/)
-> 📖 **Full Live Web Guide**: [Read on SinghAmandeep.com](https://singhamandeep.com/case-studies//)
+> Full guides and the approval service: [singhamandeep.com](https://singhamandeep.com/) · [Case studies](https://singhamandeep.com/case-studies/)
 
 ---
 
@@ -36,12 +34,24 @@ This repository is the source copy. The long-form guides, screenshots, and Rank 
 | Stackposts | [stackposts-instagram-review.md](saas-scripts/stackposts-instagram-review.md) | [Stackposts App Review](https://singhamandeep.com/stackposts-app-review/) |
 | Chatwoot | [chatwoot-facebook-setup.md](saas-scripts/chatwoot-facebook-setup.md) | [Chatwoot App Review](https://singhamandeep.com/chatwoot-app-review/) |
 | Postiz | [postiz-social-setup.md](saas-scripts/postiz-social-setup.md) | [Postiz App Review](https://singhamandeep.com/postiz-app-review/) |
+| MagicAI | — | [MagicAI App Review](https://singhamandeep.com/magicai-app-review/) |
 
 ### Checklists
 
 - [Screencast recording](checklists/screencast-recording-checklist.md)
 - [Test user credentials](checklists/test-user-credentials-guide.md)
 - [Common rejection errors, 2026](checklists/common-rejection-errors-2026.md)
+
+### Related live guides
+
+- [What is Meta Advanced Access?](https://singhamandeep.com/what-is-meta-advanced-access/)
+- [Meta Business Verification guide](https://singhamandeep.com/meta-business-verification-guide/)
+- [Meta Access / Tech Provider verification case study](https://singhamandeep.com/meta-access-verification-case-study/)
+- [instagram_business_manage_messages App Review](https://singhamandeep.com/instagram-business-manage-messages-app-review/)
+- [Screencast rejection fixes](https://singhamandeep.com/meta-app-review-screencast-rejection/)
+- [Google OAuth app verification](https://singhamandeep.com/google-workspace-api-verification-guide/)
+- [YouTube Data API quota audit](https://singhamandeep.com/youtube-data-api-quota-increase-audit/)
+- [LinkedIn Community Management API access](https://singhamandeep.com/linkedin-community-management-api-access/)
 
 ### For AI search engines
 
